@@ -1,0 +1,65 @@
+
+Power Method
+Eigen value=5.302776
+iterations=41
+
+Eigen vectors-0.601501  -0.371748  -0.371748  -0.601501  
+Eigen vectors0.676766  0.204908  -0.204908  -0.676766  
+Eigen vectors0.371748  -0.601501  -0.601501  0.371748  
+Eigen vectors-0.204908  0.676766  -0.676766  0.204908  
+ 
+QR Method
+
+Eigen values=
+
+5.302776 
+
+3.618034 
+
+1.697196 
+
+1.381989 
+
+Itertions=24
+
+Power Method
+Eigen value=12.000000
+iterations=26
+
+Eigen vectors0.251796  0.530583  0.809370  
+Eigen vectors0.877458  0.227629  -0.422200  
+Eigen vectors0.408248  -0.816497  0.408248 
+
+QR Method
+
+Eigen values=
+
+11.999979 
+
+6.000010 
+
+6.000000 
+
+Itertions=11
+
+ 
+Power Method
+Eigen value=8.156856
+iterations=9
+
+Eigen vectors-0.613541  -0.699268  -0.366867  
+Eigen vectors-0.464145  0.106606  0.879320  
+Eigen vectors0.174870  -0.334010  0.926206  
+
+QR Method
+
+Eigen values=
+
+8.156856 
+
+0.656364 
+
+0.186781 
+
+Itertions=11
+
